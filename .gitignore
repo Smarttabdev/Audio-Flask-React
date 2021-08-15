@@ -1,0 +1,4 @@
+# virtualenv dir
+/venv
+/test.db
+**__pycache__
